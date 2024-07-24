@@ -1,0 +1,10 @@
+Swing Learning Project: JFrameTwo
+Overview
+This project is a small application developed to practice and learn the basics of Java Swing, a GUI widget toolkit for Java. The application creates a simple window (JFrame) with a password input field (JPasswordField), a label (JLabel), and a button (JButton). When the button is clicked, the entered password is printed to the console.
+
+Features
+A JFrame window with a FlowLayout.
+A JLabel prompting the user to enter a password.
+A JPasswordField where the user can input their password.
+A JButton that triggers an action to print the entered password to the console when clicked.
+
